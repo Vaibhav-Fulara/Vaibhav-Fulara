@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vaibhav Fulara, an undergraduate pre-final year student at Delhi Technological University. I am interested in the fields of Software Development and Web Development.
+I am Vaibhav Fulara, an undergraduate final year student at Delhi Technological University. I am interested in the fields of Software Development and Web Development.
 - 🌱 I’m currently learning DSA and MERN Stack Web Development
 - 💬 Ask me about DSA/ ML/ Front End Web Development
 - 👯 I’m looking to collaborate on projects related to Front End Web Development.
