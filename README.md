@@ -26,7 +26,7 @@
 
 ### 🧩 LeetCode Progress   
 [![Vaibhav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vfvf4002&theme=Dark)]
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vfvf4002&theme=dark&animated=true&border=no)
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vfvf4002&theme=dark&animated=true)]
 
 
 ---
