@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@vfvf4002's Holopin board](https://holopin.io/api/user/board?user=vfvf4002)](https://holopin.io/@vfvf4002)
+
+[![vfvf4002's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vfvf4002&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
