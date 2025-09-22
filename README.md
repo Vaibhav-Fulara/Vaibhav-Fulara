@@ -22,10 +22,27 @@
 
 ---
 
-## 📊 GitHub & Coding Stats
-[![vfvf4002's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vfvf4002&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vfvf4002&theme=dark&animated=true)
-[![Vaibhav's Holopin Board](https://holopin.io/api/user/board?user=vfvf4002)](https://holopin.io/@vfvf4002)  
+## 📊 GitHub & Coding Stats  
+
+### 🧩 LeetCode Progress  
+[![Vaibhav's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vfvf4002&theme=Dark)](https://leetcode.com/u/vfvf4002/)  
+
+#### 🎖️ LeetCode Badges  
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vfvf4002&theme=dark&animated=true&border=no)  
+
+---
+
+### 🎖️ Hacktoberfest & Open Source  
+<p align="center">
+  <img src="https://holopin.io/api/user/board?user=vfvf4002" width="700" alt="Holopin Badges Board"/>
+</p>  
+
+---
+
+### 📈 GitHub Activity  
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-Fulara&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Fulara&layout=compact&theme=radical)  
+
 
 ---
 
