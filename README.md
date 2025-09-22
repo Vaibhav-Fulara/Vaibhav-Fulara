@@ -23,7 +23,8 @@
 ---
 
 ## 📊 GitHub & Coding Stats
-[![vfvf4002's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vfvf4002&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)  
+[![vfvf4002's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vfvf4002&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=vfvf4002&theme=dark&animated=true)
 [![Vaibhav's Holopin Board](https://holopin.io/api/user/board?user=vfvf4002)](https://holopin.io/@vfvf4002)  
 
 ---
